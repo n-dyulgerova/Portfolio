@@ -3,7 +3,7 @@
 ### About 
 Hi, I'm Nelly! I have an analytical background in the aviation industry. After more than 5 years in the MRO industry I have developed a strong foundation in supply chain planning, inventory optimization, and operational efficiency. I recently decided to upgrade my skills and completed a Data Analyst Course. I learned the latest analytics tools and techniques, how to work with SQL, Python language and Power BI. My goal is to combine my domain expertise in supply chain management with data analytics to drive smarter, data-driven decision-making and business optimization.
 
-My CV in [pdf](https://github.com/NellyDyulgerova/CV/blob/8e7b04c09a20c918321f89ef2cef185fb57dff47/Nelly_Dyulgerova_Resume.pdf)
+My CV in [pdf](https://github.com/n-dyulgerova/CV/blob/main/NELLY_DYULGEROVA_Resume.pdf)
 
 ## Table of Contents
 
