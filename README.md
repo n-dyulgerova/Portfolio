@@ -28,7 +28,7 @@ You can find more information about the dataset [here](https://www.kaggle.com/da
 **Customer Shopping Trends Analysis**<br/>
 **Preview**: [Customer Shopping Trends](README.md)<br/>
 **SQL Analysis**:[Customer Shopping Trends SQL Analysis](customer_shopping_trends.sql)<br/>
-**Power BI Report**: [Power BI Report](Power BI Report Customer Shopping Trends.pdf)<br/>
+**Power BI Report**: [Power BI Report](https://github.com/n-dyulgerova/customer_shopping_trends/blob/main/Power%20BI%20Report%20Customer%20Shopping%20Trends.pdf)<br/>
 **Description**: This project uses **SQL** and **Power BI** to analyze customer shopping trends and solve a key retail business problem: **what products to stock, where to stock them, and when to stock them** in order to maximize sales, reduce lost sales, and minimize dead stock. Using transactional sales data, the analysis identifies top-performing products, seasonal demand patterns, high-revenue locations, and valuable customer segments. The insights were transformed into an interactive Power BI dashboard to support smarter inventory planning and business decision-making.<br/>
 You can find more information about the dataset [here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset).<br/>
 **Skills**: data cleaning, data analysis, data storytelling, data visualization.<br/>
