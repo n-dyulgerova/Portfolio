@@ -25,6 +25,17 @@ You can find more information about the dataset [here](https://www.kaggle.com/da
 **Technology**: SQL, Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Power BI<br/>
 **Results**: Identification of the key drivers of customer satisfaction, data-based business recommendations.<br/>
 
+**Customer Shopping Trends Analysis**<br/>
+**Preview**: [Customer Shopping Trends](README.md)<br/>
+**SQL Analysis**:[Customer Shopping Trends SQL Analysis](customer_shopping_trends.sql)<br/>
+**Power BI Report**: [Power BI Report](Power BI Report Customer Shopping Trends.pdf)<br/>
+**Description**: This project uses **SQL** and **Power BI** to analyze customer shopping trends and solve a key retail business problem: **what products to stock, where to stock them, and when to stock them** in order to maximize sales, reduce lost sales, and minimize dead stock. Using transactional sales data, the analysis identifies top-performing products, seasonal demand patterns, high-revenue locations, and valuable customer segments. The insights were transformed into an interactive Power BI dashboard to support smarter inventory planning and business decision-making.<br/>
+You can find more information about the dataset [here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset).<br/>
+**Skills**: data cleaning, data analysis, data storytelling, data visualization.<br/>
+**Technology**: MySQL, Power BI <br/>
+**Results**: Transformed raw sales data into a clear inventory decision framework answering - what to stock, where to stock and when to stock it.<br/>
+
+
 ### Certificates 
 
 I believe that the best way to showcase your experience is by showing what work you have done but sometimes certificates appear to be as an indirect result:). So here is my certificate (with the date of completion in brackets): <br/>
