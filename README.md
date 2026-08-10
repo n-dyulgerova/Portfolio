@@ -37,7 +37,7 @@ You can find more information about the dataset [here](https://www.kaggle.com/da
 
 **Olist Sales & Performance Analysis**<br/>
 **Preview**:[Dashboard Preview (PDF)](https://github.com/n-dyulgerova/Olist-Performance-Analysis/blob/main/Olist_Analysis_Dashboard_Overview.pdf)<br/>
-**Overview**:[Olist-Performance-Analysis]()<br/>
+**Overview**:[Olist-Performance-Analysis](https://github.com/n-dyulgerova/Olist-Performance-Analysis)<br/>
 **Excel Dashboard**:[Download the Excel Dashboard](https://github.com/n-dyulgerova/Olist-Performance-Analysis/raw/refs/heads/main/Olist_Performance_Analysis.xlsx)<br/>
 **Dashboard Demo**:[Download Dashboard Demo Video](https://github.com/n-dyulgerova/Olist-Performance-Analysis/raw/refs/heads/main/Olist_Analysis_Overview.mp4)<br/> 
 **Description**: This project uses the Brazilian eCommerce public dataset from Olist Store, containing approximately 100k orders from 2016 to 2018. I developed an interactive sales and performance dashboard in Excel, using Power Query for data preparation and Power Pivot/DAX for data modeling and analysis. The project explores revenue trends, seller and category performance, geographic sales distribution, delivery efficiency, and customer ratings.<br/>
