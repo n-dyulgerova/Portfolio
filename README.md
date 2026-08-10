@@ -36,7 +36,7 @@ You can find more information about the dataset [here](https://www.kaggle.com/da
 **Results**: Transformed raw sales data into a clear inventory decision framework answering - what to stock, where to stock and when to stock it.<br/>
 
 **Olist Sales & Performance Analysis**<br/>
-**Preview**: **Preview**: [Customer Shopping Trends](README.md)<br/>
+**Preview**: **Preview**: [Olist-Performance-Analysis](README.md)<br/>
 **Dashboard**: Olist Sales Dashboard<br/>
 **Description**: This project uses the Brazilian eCommerce public dataset from Olist Store, containing approximately 100k orders from 2016 to 2018. I developed an interactive sales and performance dashboard in Excel, using Power Query for data preparation and Power Pivot/DAX for data modeling and analysis. The project explores revenue trends, seller and category performance, geographic sales distribution, delivery efficiency, and customer ratings.<br/>
 **Skills**: data cleaning, data transformation, data modeling, DAX, KPI development, sales analysis, performance analysis, trend analysis, customer satisfaction analysis, data visualization.<br/>
